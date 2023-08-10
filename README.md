@@ -1,12 +1,12 @@
 # Power_BI_P2
 Project: Analyse ecommerce sales data, created an interactive dashboard using power bi
 Project key points:
-1.	data collection
-2.	data cleaning and wrangling
-3.	data modelling
-4.	data visualization
-5.	dashboard design and
-6.	sharing insights
+1.	Data collection
+2.	Data cleaning and wrangling
+3.	Data modelling
+4.	Data visualization
+5.	Dashboard design and
+6.	Sharing insights
 
 Objective:  Owner of Madhav store wants us to help them create a dashboard to track and analyse their online sales across India.
 
